@@ -1,5 +1,5 @@
 
-![My Journey in Software Engineering](https://github.com/NusrathCassim/NusrathC/blob/main/banner.png)
+![My Journey in Software Engineering](https://github.com/NusrathCassim/NusrathCassim/blob/main/banner.png)
 ### Hi there 👋, This is Nusrath!
 #### My Journey in Software Engineering
 
